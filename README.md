@@ -1,6 +1,6 @@
 # ros-docker-gui
 
-[ROS](https://www.ros.org/) docker image with GUI and Nvidia GPU acceleration support.
+[ROS](https://www.ros.org/) docker image with GUI and Nvidia GPU acceleration support. There's a more comprehensive repo [here](https://github.com/turlucode/ros-docker-gui).
 
 ## How to use
 

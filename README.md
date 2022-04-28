@@ -4,6 +4,8 @@
 
 ## How to use
 
++ Install [nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit),
+
 + clone this repository and build
 
   ```bash
